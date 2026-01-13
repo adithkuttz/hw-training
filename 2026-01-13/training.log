@@ -1,0 +1,49 @@
+Date: 13-01-2026
+Training Log
+
+Topic: Familiarize with common Python packages and usages
+
+Packages Covered:
+requests
+   https://docs.python-requests.org/en/master/
+
+parsel
+   https://parsel.readthedocs.io/en/latest/usage.html
+
+re (Regular Expressions)
+   https://www.w3schools.com/python/python_regex.asp
+
+json
+   https://www.w3schools.com/python/python_json.asp
+
+csv
+   https://docs.python.org/3/library/csv.html
+
+pymongo
+   https://pymongo.readthedocs.io/en/stable/tutorial.html
+
+pika
+   https://pika.readthedocs.io/en/stable/tutorial.html
+
+logging
+   https://docs.python.org/3/library/logging.html
+
+ ast
+  datetime
+ urllib
+ time
+ xml
+ lxml
+ base64
+ https://docs.python.org/3/library/base64.html
+
+ os
+ random
+ ftplib
+ dropbox
+ boto3
+ js2py
+ IPython
+
+Reference:
+Python Official Documentation
