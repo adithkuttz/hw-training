@@ -69,10 +69,6 @@ class CleverlebenParser:
         """Close connections (Destructor logic)"""
         print("[INFO] Closing parser")
 
-
-# -------------------------------
-# Task 6: List Comprehension
-# -------------------------------
 def filter_product_names(products):
     """Extract product names & remove null prices"""
     return [
