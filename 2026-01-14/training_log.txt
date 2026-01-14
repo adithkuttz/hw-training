@@ -1,0 +1,20 @@
+Date: 14-01-2026
+
+Topic:
+Advanced Python – HTML Data Handling
+
+Work Done:
+ Fetched raw HTML from a website using Python requests.
+ Saved HTML content into a file.
+ Used object-oriented programming concepts.
+ Implemented mock parsing due to JavaScript-based website.
+ Stored cleaned data into a text file.
+ Used generator for file reading.
+ Applied exception handling and PEP8 standards.
+ Learning Outcome
+ Understood difference between static HTML and JavaScript-based websites.
+ Learned Python project structuring.
+ improved understanding of generators and exceptions.
+
+Remarks:
+Task completed as per trainer instruction (HTML only).
