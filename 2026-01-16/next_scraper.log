@@ -1,0 +1,176 @@
+2026-01-16 10:43:28,843 - INFO - Fetching PLP page
+2026-01-16 10:43:30,431 - INFO - PDP URLs found: 29
+2026-01-16 10:43:30,449 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952773/g58348#g58348: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952773/g58348 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,459 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952772/g58347#g58347: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952772/g58347 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,470 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su542753/aw4096#aw4096: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su542753/aw4096 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,481 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su670747/f78347#f78347: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su670747/f78347 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,491 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952772/g58351#g58351: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952772/g58351 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,505 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su291687/f14941#f14941: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su291687/f14941 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,514 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su794851/h70527#h70527: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su794851/h70527 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,524 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su291687/h56680#h56680: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su291687/h56680 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,534 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su291687/ak1045#ak1045: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su291687/ak1045 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:43:30,543 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su621710/w63504#w63504: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su621710/w63504 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:05,868 - INFO - Fetching PLP page
+2026-01-16 10:46:06,717 - INFO - PDP URLs found: 29
+2026-01-16 10:46:06,738 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su542753/ay2139#ay2139: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su542753/ay2139 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,750 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su670747/f78347#f78347: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su670747/f78347 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,766 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952773/g58348#g58348: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952773/g58348 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,800 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su621710/f32029#f32029: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su621710/f32029 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,814 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su291687/ah3999#ah3999: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su291687/ah3999 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,827 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su670747/w10645#w10645: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su670747/w10645 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,862 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su542753/aw4096#aw4096: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su542753/aw4096 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,875 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952772/g58351#g58351: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952772/g58351 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,887 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su291687/f14941#f14941: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su291687/f14941 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:46:06,898 - ERROR - PDP error https://www.next.co.ukhttps://www.next.co.uk/style/su952772/g58347#g58347: HTTPSConnectionPool(host='www.next.co.ukhttps', port=443): Max retries exceeded with url: /www.next.co.uk/style/su952772/g58347 (Caused by NameResolutionError("HTTPSConnection(host='www.next.co.ukhttps', port=443): Failed to resolve 'www.next.co.ukhttps' ([Errno -2] Name or service not known)"))
+2026-01-16 10:50:23,447 - INFO - Scraping started
+2026-01-16 10:50:23,447 - INFO - Fetching PLP page
+2026-01-16 10:50:24,358 - INFO - PDP URLs found: 29
+2026-01-16 10:50:24,359 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/f14941#f14941
+2026-01-16 10:50:25,412 - INFO - Scraping PDP: https://www.next.co.uk/style/su842929/h96320#h96320
+2026-01-16 10:50:25,816 - INFO - Scraping PDP: https://www.next.co.uk/style/su952773/g58348#g58348
+2026-01-16 10:50:26,390 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59402#w59402
+2026-01-16 10:50:27,236 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58351#g58351
+2026-01-16 10:50:28,882 - INFO - Scraping completed. Products scraped: 5
+2026-01-16 10:56:01,312 - INFO - Scraping started
+2026-01-16 10:56:01,312 - INFO - Fetching PLP page
+2026-01-16 10:56:02,592 - INFO - PDP URLs found: 29
+2026-01-16 10:56:02,593 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/w63516#w63516
+2026-01-16 10:56:03,565 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/h56696#h56696
+2026-01-16 10:56:04,550 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f78347#f78347
+2026-01-16 10:56:05,310 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07857#w07857
+2026-01-16 10:56:06,081 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/w63504#w63504
+2026-01-16 10:56:07,327 - INFO - Scraping completed. Products scraped: 5
+2026-01-16 10:59:54,613 - INFO - Scraping started
+2026-01-16 10:59:54,613 - INFO - Fetching PLP page
+2026-01-16 10:59:55,087 - INFO - PDP URLs found: 29
+2026-01-16 10:59:55,087 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w10645#w10645
+2026-01-16 10:59:55,636 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/b42553#b42553
+2026-01-16 10:59:56,376 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f77845#f77845
+2026-01-16 10:59:56,967 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f78347#f78347
+2026-01-16 10:59:57,162 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/w63494#w63494
+2026-01-16 10:59:57,557 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/h56696#h56696
+2026-01-16 10:59:57,749 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07857#w07857
+2026-01-16 10:59:58,005 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/w63504#w63504
+2026-01-16 10:59:58,402 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56719#h56719
+2026-01-16 10:59:58,872 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07853#w07853
+2026-01-16 10:59:59,333 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59401#w59401
+2026-01-16 10:59:59,827 - INFO - Scraping PDP: https://www.next.co.uk/style/su952773/g58348#g58348
+2026-01-16 11:00:01,193 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4028#aw4028
+2026-01-16 11:00:02,937 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/f14941#f14941
+2026-01-16 11:00:03,560 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58351#g58351
+2026-01-16 11:00:04,155 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59408#w59408
+2026-01-16 11:00:05,107 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58347#g58347
+2026-01-16 11:00:05,842 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/w63177#w63177
+2026-01-16 11:00:06,875 - INFO - Scraping PDP: https://www.next.co.uk/style/su842929/h96320#h96320
+2026-01-16 11:00:07,624 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/ay2139#ay2139
+2026-01-16 11:00:08,629 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ah3999#ah3999
+2026-01-16 11:00:09,376 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/w63516#w63516
+2026-01-16 11:00:09,589 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/f32029#f32029
+2026-01-16 11:00:10,146 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59402#w59402
+2026-01-16 11:00:11,645 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/h56699#h56699
+2026-01-16 11:00:12,680 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4096#aw4096
+2026-01-16 11:00:14,099 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ak1045#ak1045
+2026-01-16 11:00:15,547 - INFO - Scraping PDP: https://www.next.co.uk/style/su794851/h70527#h70527
+2026-01-16 11:00:16,155 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56680#h56680
+2026-01-16 11:00:16,881 - INFO - Scraping completed. Products scraped: 29
+2026-01-16 11:03:04,166 - INFO - Scraping started
+2026-01-16 11:03:04,166 - INFO - Fetching PLP page
+2026-01-16 11:03:05,024 - INFO - PDP URLs found: 29
+2026-01-16 11:03:05,025 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ah3999#ah3999
+2026-01-16 11:03:06,282 - INFO - Scraping PDP: https://www.next.co.uk/style/su952773/g58348#g58348
+2026-01-16 11:03:07,025 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/w63516#w63516
+2026-01-16 11:03:08,544 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f77845#f77845
+2026-01-16 11:03:10,566 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56680#h56680
+2026-01-16 11:03:12,070 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58351#g58351
+2026-01-16 11:03:12,300 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/w63504#w63504
+2026-01-16 11:03:13,609 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/f14941#f14941
+2026-01-16 11:03:13,909 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w10645#w10645
+2026-01-16 11:03:15,348 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f78347#f78347
+2026-01-16 11:03:16,364 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ak1045#ak1045
+2026-01-16 11:03:17,350 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/h56699#h56699
+2026-01-16 11:03:18,342 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56719#h56719
+2026-01-16 11:03:19,596 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/ay2139#ay2139
+2026-01-16 11:03:22,551 - INFO - Scraping PDP: https://www.next.co.uk/style/su842929/h96320#h96320
+2026-01-16 11:03:22,784 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59408#w59408
+2026-01-16 11:03:25,281 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/f32029#f32029
+2026-01-16 11:03:26,928 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/w63494#w63494
+2026-01-16 11:03:27,733 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4028#aw4028
+2026-01-16 11:03:28,855 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/h56696#h56696
+2026-01-16 11:03:29,857 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07857#w07857
+2026-01-16 11:03:30,874 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58347#g58347
+2026-01-16 11:03:31,902 - INFO - Scraping PDP: https://www.next.co.uk/style/su794851/h70527#h70527
+2026-01-16 11:03:33,096 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4096#aw4096
+2026-01-16 11:03:34,159 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/b42553#b42553
+2026-01-16 11:03:35,523 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59401#w59401
+2026-01-16 11:03:36,963 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07853#w07853
+2026-01-16 11:03:37,690 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59402#w59402
+2026-01-16 11:03:37,909 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/w63177#w63177
+2026-01-16 11:03:39,317 - INFO - Scraping completed. Products scraped: 29
+2026-01-16 11:08:55,583 - INFO - Scraping started
+2026-01-16 11:08:55,583 - INFO - Fetching PLP page
+2026-01-16 11:08:56,109 - INFO - PDP URLs found: 29
+2026-01-16 11:08:56,110 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58347#g58347
+2026-01-16 11:08:56,651 - INFO - Scraping PDP: https://www.next.co.uk/style/su842929/h96320#h96320
+2026-01-16 11:08:57,157 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59408#w59408
+2026-01-16 11:08:57,666 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/w63516#w63516
+2026-01-16 11:08:58,149 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f77845#f77845
+2026-01-16 11:08:58,335 - INFO - Scraping PDP: https://www.next.co.uk/style/su952773/g58348#g58348
+2026-01-16 11:08:58,607 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/w63177#w63177
+2026-01-16 11:08:58,829 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/f14941#f14941
+2026-01-16 11:08:59,206 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07853#w07853
+2026-01-16 11:08:59,467 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/w63504#w63504
+2026-01-16 11:08:59,684 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/h56699#h56699
+2026-01-16 11:08:59,911 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f78347#f78347
+2026-01-16 11:09:00,183 - INFO - Scraping PDP: https://www.next.co.uk/style/su794851/h70527#h70527
+2026-01-16 11:09:00,374 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59401#w59401
+2026-01-16 11:09:00,633 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/b42553#b42553
+2026-01-16 11:09:00,844 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4096#aw4096
+2026-01-16 11:09:01,247 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/f32029#f32029
+2026-01-16 11:09:01,630 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58351#g58351
+2026-01-16 11:09:01,961 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w10645#w10645
+2026-01-16 11:09:02,276 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/w63494#w63494
+2026-01-16 11:09:02,686 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56719#h56719
+2026-01-16 11:09:03,154 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4028#aw4028
+2026-01-16 11:09:03,608 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/h56696#h56696
+2026-01-16 11:09:04,012 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07857#w07857
+2026-01-16 11:09:04,262 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ah3999#ah3999
+2026-01-16 11:09:04,508 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ak1045#ak1045
+2026-01-16 11:09:04,797 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/ay2139#ay2139
+2026-01-16 11:09:05,424 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56680#h56680
+2026-01-16 11:09:06,327 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59402#w59402
+2026-01-16 11:09:06,619 - INFO - Data saved to JSON
+2026-01-16 11:09:06,663 - INFO - Inserted 29 records into MongoDB
+2026-01-16 11:09:06,663 - INFO - Scraping completed. Products scraped: 29
+2026-01-16 11:11:45,654 - INFO - Scraping started
+2026-01-16 11:11:45,654 - INFO - Fetching PLP page
+2026-01-16 11:11:45,965 - INFO - PDP URLs found: 29
+2026-01-16 11:11:45,966 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/w63494#w63494
+2026-01-16 11:11:46,557 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f77845#f77845
+2026-01-16 11:11:46,815 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/f32029#f32029
+2026-01-16 11:11:47,093 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59402#w59402
+2026-01-16 11:11:47,302 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w10645#w10645
+2026-01-16 11:11:47,552 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58347#g58347
+2026-01-16 11:11:47,767 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59408#w59408
+2026-01-16 11:11:47,992 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4028#aw4028
+2026-01-16 11:11:48,189 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/h56696#h56696
+2026-01-16 11:11:48,416 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/f78347#f78347
+2026-01-16 11:11:48,715 - INFO - Scraping PDP: https://www.next.co.uk/style/su952773/g58348#g58348
+2026-01-16 11:11:48,943 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ah3999#ah3999
+2026-01-16 11:11:49,169 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07857#w07857
+2026-01-16 11:11:49,393 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/b42553#b42553
+2026-01-16 11:11:49,602 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/w63504#w63504
+2026-01-16 11:11:49,982 - INFO - Scraping PDP: https://www.next.co.uk/style/su952772/g58351#g58351
+2026-01-16 11:11:50,260 - INFO - Scraping PDP: https://www.next.co.uk/style/su794851/h70527#h70527
+2026-01-16 11:11:50,630 - INFO - Scraping PDP: https://www.next.co.uk/style/sv055758/w59401#w59401
+2026-01-16 11:11:50,976 - INFO - Scraping PDP: https://www.next.co.uk/style/su842929/h96320#h96320
+2026-01-16 11:11:51,839 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/ak1045#ak1045
+2026-01-16 11:11:52,078 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/w63177#w63177
+2026-01-16 11:11:52,310 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/f14941#f14941
+2026-01-16 11:11:52,567 - INFO - Scraping PDP: https://www.next.co.uk/style/su670747/w07853#w07853
+2026-01-16 11:11:52,921 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/ay2139#ay2139
+2026-01-16 11:11:53,323 - INFO - Scraping PDP: https://www.next.co.uk/style/su542753/aw4096#aw4096
+2026-01-16 11:11:53,760 - INFO - Scraping PDP: https://www.next.co.uk/style/su621710/h56699#h56699
+2026-01-16 11:11:54,646 - INFO - Scraping PDP: https://www.next.co.uk/style/su769560/w63516#w63516
+2026-01-16 11:11:54,948 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56719#h56719
+2026-01-16 11:11:55,481 - INFO - Scraping PDP: https://www.next.co.uk/style/su291687/h56680#h56680
+2026-01-16 11:11:56,168 - INFO - Scraping completed. Products scraped: 29
