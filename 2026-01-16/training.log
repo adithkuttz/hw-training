@@ -1,0 +1,75 @@
+Date: 16-01-2026
+Training Log
+
+Topic: Practical Web Scraping & Data Pipeline Implementation
+
+Tasks Performed:
+
+ Sitemap & Data Extraction
+ Scraped website data using XML and lxml options
+ Identified relevant URLs for scraping
+
+ Web Scraping using Python
+ Used requests and parsel libraries
+ Extracted data from PLP (Product Listing Page)
+ Extracted PDP URLs using XPath
+ Implemented pagination handling
+
+ PDP Page Data Extraction (XPath)
+Extracted the following fields:
+ unique_id
+ product_name
+ brand
+ category
+ regular_price
+ selling_price
+ promotion_description
+ breadcrumb
+ pdp_url
+ product_description
+ currency
+ color
+ size
+ rating
+ review
+ material_composition
+ style
+ care_instructions
+ feature
+ images
+ composition
+
+ Logging & Error Handling
+ Implemented logging using Python logging module
+ Generated next_scraper.log file
+ Added INFO-level logs for scraping steps
+ Handled exceptions and HTTP errors
+ Timestamp Handling
+ Used datetime module for scraped timestamps
+ Stored scrape time in ISO format   
+ Database Integration
+ Inserted scraped data into MongoDB using pymongo
+ Stored records in products collection
+
+ Data Export
+ Exported scraped data to JSON format
+ Generated products.json file
+ Verified JSON structure and data integrity
+
+ Output Summary
+ Total products scraped: 29
+ Scraping completed successfully without critical errors
+
+Tools & Libraries Used:
+ requests
+ parsel
+ lxml
+ regex (re)
+ datetime
+ logging
+ pymongo
+ json
+ MongoDB
+
+Status:
+Task completed successfully.
