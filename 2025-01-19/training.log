@@ -1,0 +1,14 @@
+Date: 2025-01-19
+Task: Cleverleben Product Scraping
+Code File: project2.py
+Output File: clever_products.json
+
+Steps Performed:
+ Implemented product scraper using requests and parsel
+ Scraped product name, price, URL, images, and IDs
+ Limited crawl to 30 products
+ Stored results in JSON format
+
+Result:
+ Successfully scraped 30 products
+ Output saved as clever_products.json

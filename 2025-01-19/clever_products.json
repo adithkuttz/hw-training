@@ -1,0 +1,452 @@
+[
+  {
+    "product_url": "https://www.cleverleben.at/produkt/party-shots-25x20ml-2723350",
+    "product_name": "Party Shots, 25x20ml",
+    "price": "8,99 €",
+    "currency": "€",
+    "regular_price": "8.99",
+    "product_description": null,
+    "product_id": "27-23350",
+    "unique_id": "2723350",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-23350-2054236950-iKugM-jA.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-23350-2054236950-iKugM-jA.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/ansatzkorn-80-vol-1l-2725787",
+    "product_name": "Ansatzkorn 80% vol, 1L",
+    "price": "18,99 €",
+    "currency": "€",
+    "regular_price": "18.99",
+    "product_description": null,
+    "product_id": "27-25787",
+    "unique_id": "2725787",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25787-01505944711-61vxisQX.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25787-01505944711-61vxisQX.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/obstschnaps-35vol-1l-2711137",
+    "product_name": "Obstschnaps 35%VOL, 1L",
+    "price": "9,99 €",
+    "currency": "€",
+    "regular_price": "9.99",
+    "product_description": null,
+    "product_id": "27-11137",
+    "unique_id": "2711137",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-11137-01658087754-GBRHP5CE.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-11137-01658087754-GBRHP5CE.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/williamsbirnenschnaps-1l-2725788",
+    "product_name": "Williamsbirnenschnaps, 1L",
+    "price": "10,99 €",
+    "currency": "€",
+    "regular_price": "10.99",
+    "product_description": null,
+    "product_id": "27-25788",
+    "unique_id": "2725788",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25788-1899312938-SsDLNGlF.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25788-1899312938-SsDLNGlF.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/zwetschkenschnaps-35vol-1l-2712699",
+    "product_name": "Zwetschkenschnaps 35%VOL, 1L",
+    "price": "10,99 €",
+    "currency": "€",
+    "regular_price": "10.99",
+    "product_description": null,
+    "product_id": "27-12699",
+    "unique_id": "2712699",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-12699-01353489519-3pwfh5B7.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-12699-01353489519-3pwfh5B7.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/inlaender-rum-38vol-1l-2712056",
+    "product_name": "Inländer Rum 38%vol, 1L",
+    "price": "8,99 €",
+    "currency": "€",
+    "regular_price": "8.99",
+    "product_description": null,
+    "product_id": "27-12056",
+    "unique_id": "2712056",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-12056-01150372245-tmh1RDiL.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-12056-01150372245-tmh1RDiL.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/eierlikoer-14-07l-2721954",
+    "product_name": "Eierlikör 14%, 0.7l",
+    "price": "5,79 €",
+    "currency": "€",
+    "regular_price": "5.79",
+    "product_description": null,
+    "product_id": "27-21954",
+    "unique_id": "2721954",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-21954-0455996221-Yh_o0-wV.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-21954-0455996221-Yh_o0-wV.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/korn-38-vol-1l-275479",
+    "product_name": "Korn 38% VOL, 1L",
+    "price": "8,99 €",
+    "currency": "€",
+    "regular_price": "8.99",
+    "product_description": null,
+    "product_id": "27-5479",
+    "unique_id": "275479",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-5479-01068242231-tAiXxe6H.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-5479-01068242231-tAiXxe6H.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/marillenschnaps-1l-2725791",
+    "product_name": "Marillenschnaps, 1L",
+    "price": "10,99 €",
+    "currency": "€",
+    "regular_price": "10.99",
+    "product_description": null,
+    "product_id": "27-25791",
+    "unique_id": "2725791",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25791-01278647840-6IxmQD-2.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25791-01278647840-6IxmQD-2.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/kirschenlikoer-225-vol-1l-2725789",
+    "product_name": "Kirschenlikör 22.5% vol, 1L",
+    "price": "6,79 €",
+    "currency": "€",
+    "regular_price": "6.79",
+    "product_description": null,
+    "product_id": "27-25789",
+    "unique_id": "2725789",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25789-01971780170-aGRW7-DK.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-25789-01971780170-aGRW7-DK.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/kamillentee-25-beutel-2715998",
+    "product_name": "Kamillentee, 25 Beutel",
+    "price": "0,69 €",
+    "currency": "€",
+    "regular_price": "0.69",
+    "product_description": null,
+    "product_id": "27-15998",
+    "unique_id": "2715998",
+    "ingredients": "Zutaten: Kamille 100%.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15998-021116473-0xULYEHj.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15998-021116473-0xULYEHj.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/apfelsaft-gespritzt-05l-60-2720807",
+    "product_name": "Apfelsaft gespritzt, 0,5L 60%",
+    "price": "0,55 €",
+    "currency": "€",
+    "regular_price": "0.55",
+    "product_description": null,
+    "product_id": "27-20807",
+    "unique_id": "2720807",
+    "ingredients": "Zutaten: Apfelsaft aus Apfelsaftkonzentrat (60%), Wasser, Kohlensäure",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20807-1798523063-6hgboVUN.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20807-1798523063-6hgboVUN.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/schwarztee-25-beutel-2716000",
+    "product_name": "Schwarztee, 25 Beutel",
+    "price": "0,65 €",
+    "currency": "€",
+    "regular_price": "0.65",
+    "product_description": null,
+    "product_id": "27-16000",
+    "unique_id": "2716000",
+    "ingredients": "Zutaten: Schwarzer Tee.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-16000-782397020-3JGY_rE-.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-16000-782397020-3JGY_rE-.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/caffe-crema-1000g-2713486",
+    "product_name": "Caffè Crema, 1000g",
+    "price": "14,49 €",
+    "currency": "€",
+    "regular_price": "14.49",
+    "product_description": null,
+    "product_id": "27-13486",
+    "unique_id": "2713486",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13486-737232184-5kcL3Rjf.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13486-737232184-5kcL3Rjf.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/sirup-johannisbeerzitrone-15l-2716311",
+    "product_name": "Sirup Johannisbeer-Zitrone, 1,5L",
+    "price": "3,79 €",
+    "currency": "€",
+    "regular_price": "3.79",
+    "product_description": null,
+    "product_id": "27-16311",
+    "unique_id": "2716311",
+    "ingredients": "Zutaten: Glukose-Fruktose-Sirup, Zucker, Mehrfruchtsaft aus Mehrfruchtsaftkonzentrat (Schwarze Johannisbeere [7 %], Aroniabeere, Zitrone [3 %]), Wasser, Säuerungsmittel: Citronensäure, Aroma.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-16311-028599250-dDscuEPn.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-16311-028599250-dDscuEPn.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/eistee-zitrone-15l-27135",
+    "product_name": "Eistee Zitrone, 1,5l",
+    "price": "0,89 €",
+    "currency": "€",
+    "regular_price": "0.89",
+    "product_description": null,
+    "product_id": "27-135",
+    "unique_id": "27135",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-135-01353425692-tl2z41JJ.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-135-01353425692-tl2z41JJ.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/espressokapseln-ristretto-20-stueck-2714043",
+    "product_name": "Espressokapseln Ristretto, 20 Stück",
+    "price": "3,49 €",
+    "currency": "€",
+    "regular_price": "3.49",
+    "product_description": null,
+    "product_id": "27-14043",
+    "unique_id": "2714043",
+    "ingredients": "Zutaten: 100% gemahlener Kaffee",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-14043-245027650-VxfopRoS.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-14043-245027650-VxfopRoS.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/wiener-eiskaffee-1l-2713720",
+    "product_name": "Wiener Eiskaffee, 1L",
+    "price": "1,49 €",
+    "currency": "€",
+    "regular_price": "1.49",
+    "product_description": null,
+    "product_id": "27-13720",
+    "unique_id": "2713720",
+    "ingredients": "Zutaten: VOLLMILCH*, Wasser, Zucker, 0,4% Kaffee-Extrakt, Karamellzuckersirup, Aroma, Speisesalz, Stabilisator: Carrageen.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13720-1160120796-SeZD2DSy.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13720-1160120796-SeZD2DSy.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/pfefferminztee-25-beutel-2715999",
+    "product_name": "Pfefferminztee, 25 Beutel",
+    "price": "0,99 €",
+    "currency": "€",
+    "regular_price": "0.99",
+    "product_description": null,
+    "product_id": "27-15999",
+    "unique_id": "2715999",
+    "ingredients": "Zutaten: Pfefferminze 100%.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15999-605539265-cUeoGP9x.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15999-605539265-cUeoGP9x.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/natuerliches-mineralwasser-prickelnd-500ml-2720627",
+    "product_name": "Natürliches Mineralwasser prickelnd, 500ml",
+    "price": "0,25 €",
+    "currency": "€",
+    "regular_price": "0.25",
+    "product_description": null,
+    "product_id": "27-20627",
+    "unique_id": "2720627",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20627-02111558450-VtdBOASm.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20627-02111558450-VtdBOASm.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/natuerliches-mineralwasser-still-500ml-2720628",
+    "product_name": "Natürliches Mineralwasser still, 500ml",
+    "price": "0,25 €",
+    "currency": "€",
+    "regular_price": "0.25",
+    "product_description": null,
+    "product_id": "27-20628",
+    "unique_id": "2720628",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20628-1150175764-BcFhmm54.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20628-1150175764-BcFhmm54.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/roestkaffee-gemahlen-500g-2713488",
+    "product_name": "Röstkaffee gemahlen, 500g",
+    "price": "5,49 €",
+    "currency": "€",
+    "regular_price": "5.49",
+    "product_description": null,
+    "product_id": "27-13488",
+    "unique_id": "2713488",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13488-0946183157-yGAAmy73.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13488-0946183157-yGAAmy73.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/eistee-pfirsich-15l-27132",
+    "product_name": "Eistee Pfirsich, 1.5L",
+    "price": "0,89 €",
+    "currency": "€",
+    "regular_price": "0.89",
+    "product_description": null,
+    "product_id": "27-132",
+    "unique_id": "27132",
+    "ingredients": "Zutaten: Wasser, Zucker, Pfirsichsaftkonzentrat, Steviatee-Aufguss 0,2% (Wasser, Süßkraut), Säuerungsmittel: Citronensäure; Schwarztee-Extrakt* 0,12%, Säureregulator: Trinatriumcitrat; Aroma.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-132-2072062341-_JGs4hk2.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-132-2072062341-_JGs4hk2.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/espressokapseln-classico-20-stueck-2714044",
+    "product_name": "Espressokapseln Classico, 20 Stück",
+    "price": "3,49 €",
+    "currency": "€",
+    "regular_price": "3.49",
+    "product_description": null,
+    "product_id": "27-14044",
+    "unique_id": "2714044",
+    "ingredients": "Zutaten: 100% gemahlener Kaffee",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-14044-0664090691-biPc-hjF.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-14044-0664090691-biPc-hjF.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/cappuccino-100-arabica-250ml-2713663",
+    "product_name": "Cappuccino 100% Arabica, 250ml",
+    "price": "0,89 €",
+    "currency": "€",
+    "regular_price": "0.89",
+    "product_description": null,
+    "product_id": "27-13663",
+    "unique_id": "2713663",
+    "ingredients": "Zutaten: fettarme MILCH (78%) 1,5% Fett, Arabica-Kaffee (17%) (Wasser, flüssiger Kaffeeextrakt^2), Zucker, Kakaopulver^2, Stabilisator: Natriumcarbonate, Carrageen.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13663-01784038801-166uxIPR.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13663-01784038801-166uxIPR.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/apfelsaft-naturtrueb-1l-2720790",
+    "product_name": "Apfelsaft naturtrüb, 1L",
+    "price": "1,49 €",
+    "currency": "€",
+    "regular_price": "1.49",
+    "product_description": null,
+    "product_id": "27-20790",
+    "unique_id": "2720790",
+    "ingredients": "Zutaten: Naturtrüber Apfelsaft, Vitamin C.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20790-884173069-QcSSWcOx.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20790-884173069-QcSSWcOx.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/latte-macchiato-100-arabica-250ml-2713664",
+    "product_name": "Latte Macchiato 100% Arabica, 250ml",
+    "price": "0,89 €",
+    "currency": "€",
+    "regular_price": "0.89",
+    "product_description": null,
+    "product_id": "27-13664",
+    "unique_id": "2713664",
+    "ingredients": "Zutaten: VOLLMILCH (74%) 4,5% Fett, Arabica-Kaffee (17%) (Wasser, flüssiger Kaffeeextrakt^2), OBERS (5%) 10% Fett, Zucker, Stabilisatoren: Natriumcarbonate, Carrageen.",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13664-1413051285-tPFBgEon.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13664-1413051285-tPFBgEon.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/fruechtetee-25-beutel-2715992",
+    "product_name": "Früchtetee, 25 Beutel",
+    "price": "0,89 €",
+    "currency": "€",
+    "regular_price": "0.89",
+    "product_description": null,
+    "product_id": "27-15992",
+    "unique_id": "2715992",
+    "ingredients": "Zutaten: Hibiskus², Hagebutten², Orangenschalen², Äpfel², Holunderbeeren, Zitronenschalen².",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15992-750747457-yGXCmaW4.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-15992-750747457-yGXCmaW4.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/loeskaffee-200g-2713514",
+    "product_name": "Löskaffee, 200g",
+    "price": "5,69 €",
+    "currency": "€",
+    "regular_price": "5.69",
+    "product_description": null,
+    "product_id": "27-13514",
+    "unique_id": "2713514",
+    "ingredients": "Zutaten: 100% löslicher Kaffee",
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13514-1674243763-Cr4rZArX.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-13514-1674243763-Cr4rZArX.png"
+  },
+  {
+    "product_url": "https://www.cleverleben.at/produkt/schwarze-johannisbeere-1l-2720624",
+    "product_name": "Schwarze Johannisbeere 1L",
+    "price": "1,59 €",
+    "currency": "€",
+    "regular_price": "1.59",
+    "product_description": null,
+    "product_id": "27-20624",
+    "unique_id": "2720624",
+    "ingredients": null,
+    "images": [
+      "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20624-01796791206-Xnabg60V.png"
+    ],
+    "image": "https://images.cdn.europe-west1.gcp.commercetools.com/67a8072d-7ec5-4da6-a7cd-ffbdb7216f14/27-20624-01796791206-Xnabg60V.png"
+  }
+]
