@@ -1,0 +1,36 @@
+Training Log – Python Requests Methods
+
+ Request handling
+Requests library is used to send HTTP requests like GET and POST.
+
+ Response handling
+Response object contains status_code, headers, text, and json data.
+
+ POST request & payloads
+POST requests send data using payloads (data or json parameters).
+
+ Cookies and session
+Session object maintains cookies across multiple requests.
+
+ Certificate verification
+Requests verifies SSL certificates by default for secure connections.
+
+ API identification and data extraction
+APIs commonly use GET calls to return JSON data.
+Data is extracted using response.json().
+
+ Proxies
+Proxies are used to route requests.
+Both HTTP and HTTPS proxies must be defined in proxies dictionary.
+
+ Exceptions
+Requests provides exception handling for timeout, connection, and HTTP errors.
+
+ Better coding with requests
+Use sessions, proper headers, timeouts, and error handling.
+
+ nohup
+nohup allows running scripts in background without terminal interruption.
+
+Conclusion:
+Python requests library provides simple and powerful HTTP handling features.

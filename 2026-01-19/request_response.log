@@ -1,0 +1,24 @@
+Training Log – Scrapy
+
+ Request
+Request is used to send HTTP requests to a URL.
+It contains method, headers, cookies, body, and callback.
+
+ FormRequest
+FormRequest is used to submit HTML form data.
+It is commonly used for login forms and POST-based submissions.
+
+ Response
+Response is the data returned by the server after a request.
+It contains status code, headers, and response body.
+
+ Shell & inspect_response
+Scrapy shell is an interactive environment.
+inspect_response helps analyze the response structure and test selectors.
+
+ Selector
+Selector is used to extract data using XPath or CSS.
+It works on response HTML or XML content.
+
+Conclusion:
+These components help understand how Scrapy sends requests and processes responses.
