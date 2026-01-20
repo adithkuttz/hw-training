@@ -1,0 +1,22 @@
+Training Log – Webscraper.io
+Date: 2026-01-20
+
+ Webscraper.io
+Webscraper.io is a browser-based web scraping tool.
+It is mainly used for scraping data without writing code.
+It works as a browser extension.
+
+ Installation and Usage
+Webscraper.io extension can be installed from the Chrome Web Store.
+After installation, it is accessed from the browser developer tools.
+A sitemap is created to define how data should be scraped.
+Selectors are used to identify elements on a web page.
+
+ Taking urgent data with the Webscraper extension
+Webscraper.io is useful for quickly collecting data.
+Data can be extracted immediately by running the sitemap.
+Scraped data can be exported in formats like CSV or JSON.
+It is helpful when urgent or one-time data is required.
+
+Conclusion:
+Webscraper.io provides a simple and fast way to scrape web data using a browser.
