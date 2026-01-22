@@ -1,0 +1,40 @@
+Training Log – Web Data Extraction
+Date: 2026-01-22
+
+Website:
+https://www.firstweber.com/roster/Agents
+
+Objective:
+The objective of today’s task is to extract the required information
+from the First Weber Agents roster website.
+
+Task Description:
+The First Weber Agents page contains a list of real estate agents.
+Each agent profile includes structured information that can be
+programmatically extracted.
+
+Data Identified for Extraction:
+- Agent Name
+- Agent Profile URL
+- Office Location
+- Phone Number (if available)
+- Email Address (if available)
+- Agent Image URL
+
+Approach Used:
+The website was analyzed using browser developer tools.
+Network and HTML structure were inspected to understand how agent data
+is loaded on the page.
+Relevant HTML elements and URLs were identified for data extraction.
+
+Observations:
+- The agents list is dynamically loaded.
+- Each agent has a dedicated profile page.
+- Profile pages contain detailed agent information.
+- Proper request headers and session handling are required to avoid access issues.
+
+Conclusion:
+The First Weber Agents website structure allows extraction of agent
+details by identifying roster listings and visiting individual
+profile pages. This task improves understanding of real-world
+web scraping challenges such as dynamic content and access control.
