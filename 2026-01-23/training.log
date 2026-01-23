@@ -1,0 +1,47 @@
+Date: 2026-01-23
+Task Type: Web Data Extraction
+Website: https://www.westside.com/
+
+Output Format: CSV
+Task Description
+
+Today’s task was to analyze the Westside e-commerce website and identify the required product fields for data extraction from product detail pages.
+
+Fields to be Extracted
+
+url
+
+breadcrumbs
+
+brand
+
+title
+
+regular_price
+
+selling_price
+
+sku
+
+description
+
+dimensions
+
+net_quantity
+
+fit
+
+care_instruction
+
+fabric_composition
+
+model_fit
+
+country_of_origin
+
+
+
+
+
+
+
