@@ -1,0 +1,12 @@
+Training Task : Extract sub-category Links
+
+site : https://www.fastenal.com/product/Abrasives?fsi=1&categoryId=600948
+
+Writing the fetch_categories tool to send ""POST"" requests 
+to the website's background system and get back lists of items.
+
+Creating a "Multi-Level" loop that finds high-level categories (Level 2) and then digs deeper to find specific items (Level 4).
+
+Writing the code to save the found links into the database without creating duplicates (using upsert).
+
+The sub-category crawler successfully extracted 94 category links
