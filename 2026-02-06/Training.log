@@ -1,0 +1,37 @@
+Date: 06-02-2026
+Topic: Web Scraping Using Advanced Modules
+
+Summary of Learning:
+
+Today I studied advanced tools and modules used in web scraping:
+
+Selenium
+
+Understood what Selenium is and when to use it.
+
+Learned the differences between Selenium vs Scrapy vs Requests.
+
+Practiced example Selenium scripts using WebDriver.
+
+Learned about Headless Mode and its advantages for faster execution.
+
+Playwright
+
+Introduction to Playwright framework.
+
+Reviewed documentation and understood its usage for browser automation and scraping.
+
+cURL
+
+Learned what cURL is and how it is used to send HTTP requests from the command line.
+
+Understood its role in identifying request headers and security checks.
+
+Cloudscraper
+
+Studied how Cloudscraper helps bypass Cloudflare and similar protection mechanisms.
+
+Reviewed PyPI documentation and usage examples.
+
+Outcome:
+Gained knowledge of multiple advanced scraping tools, their differences, and when to apply each tool depending on website security, dynamic content, and performance requirements.
