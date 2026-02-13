@@ -1,0 +1,23 @@
+Pagination and other data limitations
+
+2026-02-12
+
+Studied pagination concepts and purpose in websites
+
+Learned real-life pagination examples in e-commerce/listing sites
+
+Understood types of pagination: numbered, infinite scroll, load-more
+
+Learned about pagination limits and anti-bot restrictions
+
+Explored methods to overcome pagination barriers (scroll simulation, API usage)
+
+Studied dynamic listing page loading using JavaScript
+
+Learned filters and sorting functionality on listing pages
+
+Understood importance of filters and sorting for targeted data extraction
+
+Practiced applying filters using URL parameters and form submissions
+
+Reviewed code examples for price range and brand name filtering
