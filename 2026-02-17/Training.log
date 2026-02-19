@@ -1,0 +1,21 @@
+Training Log – 18/02/2026
+
+Project: Worten Web Scraping Pipeline
+
+Extracted main category URLs from Worten homepage.
+
+Crawled 117 subcategory URLs and stored in MongoDB.
+
+Implemented retry mechanism and Cloudflare bypass using curl_cffi.
+
+Handled request headers, cookies, and impersonation logic.
+
+Developed parser to extract product URLs from PLP pages with pagination.
+
+Parsed PDP pages to extract product details (name, price, brand, image, specs, etc.).
+
+Implemented duplicate prevention using MongoDB unique index.
+
+Added error handling for 403 (blocked) and 404 (not found) responses.
+
+Successfully stored structured product data into worten_products collection.
