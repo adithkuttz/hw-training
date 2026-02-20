@@ -1,0 +1,21 @@
+Training Log – Today’s Work
+
+Completed sample data extraction from target website.
+
+Practiced extracting structured data (title, price, URL, etc.).
+
+Improved understanding of HTML structure and data parsing.
+
+Tested response handling and status code verification.
+
+Learned about proxy usage in web scraping.
+
+Understood why proxies are used (avoid IP blocking, bypass rate limits).
+
+Practiced configuring proxy settings in scraping scripts.
+
+Learned difference between direct request and proxy request.
+
+Tested rotating proxies for multiple requests.
+
+Observed how proxy helps in preventing temporary bans.
