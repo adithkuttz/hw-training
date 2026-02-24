@@ -1,0 +1,29 @@
+Training Log
+
+1. Sample Data Extraction – Webscraper.io
+
+Created sitemap in Webscraper.io.
+
+Configured category and product selectors.
+
+Extracted product details (name, price, image, stock, URL).
+
+Handled pagination.
+
+Exported data in CSV format.
+
+Verified extracted sample data for missing fields.
+
+2. Q/A Checklist Creation – Worten ETD
+
+Created QA checklist for product data validation.
+
+Checked product name and URL accuracy.
+
+Validated price format using regex (\d+\.\d{2}).
+
+Verified promotion price and currency format.
+
+Checked duplicate records in Excel.
+
+Validated stock status and category mappi
