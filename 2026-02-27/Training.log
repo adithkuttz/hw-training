@@ -1,0 +1,19 @@
+Training Log – Swiggy Parser & Export
+
+Continued development of Swiggy Instamart project.
+
+Completed product parser implementation using product API.
+
+Extracted required fields based on the given schema.
+
+Handled JSON response mapping and field structuring.
+
+Implemented data validation and error handling.
+
+Developed export module for structured data output.
+
+Generated final export file (CSV format).
+
+Verified extracted data accuracy.
+
+Successfully completed assigned task for Swiggy project.
