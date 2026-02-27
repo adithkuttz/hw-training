@@ -1,0 +1,19 @@
+Training Log – Swiggy Development
+
+Started development of Swiggy Instamart scraping project.
+
+Analyzed website structure and identified that it is a React-based dynamic site.
+
+Inspected Network tab to find category-listing API.
+
+Understood request method, headers, and required store parameters.
+
+Created swiggy_category module.
+
+Implemented category crawler using curl_cffi.
+
+Extracted category and subcategory URLs (excluding product URLs).
+
+Configured headers and API request structure properly.
+
+Completed category crawler development for the day.
